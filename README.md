@@ -1,6 +1,6 @@
 # clojure-a2
 
-A Clojure library designed to ... well, that part is up to you.
+Santorini player. Executable "runable.sh" is on the top level, as well as the jar required to run it, "standalone.jar"
 
 ## Usage
 
